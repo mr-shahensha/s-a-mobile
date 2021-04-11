@@ -10,6 +10,7 @@
 }
 .nav h1{
     font-weight: 300;
+    font-size: 40px;
 }
 ul{
     background-color: rgb(218, 209, 209);
@@ -24,4 +25,7 @@ li:hover{
 }
 #home h2{
     color: white;
+}
+#top-products h2{
+    background-color: whitesmoke;
 }
