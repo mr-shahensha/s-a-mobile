@@ -1,0 +1,24 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    color: black ;
+}
+.navbar{
+    background-color: rgb(224, 217, 217);
+}
+.nav h1{
+    font-weight: 300;
+}
+ul{
+    background-color: rgb(218, 209, 209);
+   font-size: 25px;
+}
+li:hover{
+    font-size: 32px;
+    color: red  !important;
+}
+#home{
+    background-color: tan;
+}
