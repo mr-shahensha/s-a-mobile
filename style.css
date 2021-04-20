@@ -5,6 +5,9 @@
     text-transform: capitalize;
     color: black ;
 }
+#topnav{
+    position: ;
+}
 .navbar-brand h1{
     font-family: 'Architects Daughter', cursive;
     font-size: 50px;
@@ -48,4 +51,14 @@ li a:hover{
 }
 #offers{
     background-color: teal;
+}
+#about-us{
+    background-color: rgb(245, 112, 89);   
+}
+#about-us p{
+    color: white !important;
+}
+#about-us span{
+    color: yellow;
+    font-size: 15px;
 }
