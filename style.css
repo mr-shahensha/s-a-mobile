@@ -5,27 +5,47 @@
     text-transform: capitalize;
     color: black ;
 }
-.navbar{
-    background-color: rgb(224, 217, 217);
+.navbar-brand h1{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 50px;
+}
+h2{
+    background-color: rgb(178, 212, 178);
+    font-family: 'Merriweather', serif;
 }
 .nav h1{
     font-weight: 300;
     font-size: 40px;
 }
+.navbar{
+    background-color: bisque;
+}
 ul{
-    background-color: rgb(218, 209, 209);
    font-size: 25px;
 }
-li:hover{
+li a:hover{
     font-size: 32px;
     color: red ;
+    text-decoration: none;
 }
 #home{
-    background-color: tan;
+    background-color: rgb(109, 209, 240);
+    
 }
-#home h2{
-    color: white;
+#top-products img:hover{
+    height: 156px;
+    width: 156px;
+    box-shadow: black 3px 2px 5px;
 }
-#top-products h2{
-    background-color: whitesmoke;
+#offers p{
+    color: rgb(238, 230, 230) !important;
+    font-size: 70px;
+    font-weight: 400px;
+}
+#offers h3{
+    color: white !important;
+    font-size: 40px;
+}
+#offers{
+    background-color: teal;
 }
